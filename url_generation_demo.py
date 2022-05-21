@@ -4,7 +4,7 @@ from urllib import request
 import requests
 from bs4 import BeautifulSoup as bs
 
-key_ = 'AIzaSyCOD3KvY2DDzEfel-NZ_LKIWXr86EF_EUw'
+key_ = 'Use your own key'
 
 base_endpoint= 'https://maps.googleapis.com/maps/api/geocode/xml'
 
